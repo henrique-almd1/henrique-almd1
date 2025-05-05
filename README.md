@@ -1,5 +1,5 @@
 <h1>Seja bem-vindo(a) ao meu GitHub!<h1/>
-## Olá eu sou o Henrique Almeida, atualmente estou estudando React, HTML and CSS!
+Olá eu sou o Henrique Almeida, atualmente estou estudando React, HTML and CSS!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
