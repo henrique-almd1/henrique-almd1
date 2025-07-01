@@ -1,5 +1,5 @@
 <h1>Seja bem-vindo(a) ao meu GitHub!👋<h1/>
-Sou o Henrique Almeida, atualmente estou estudando React, Python, HTML and CSS!
+Sou o Henrique Almeida, atualmente estou estudando React, Python, HTML e CSS!
   
 ##
 
